@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brent Revelle</h1>
-<h3 align="center">A passionate frontend developer from Missouri, US.</h3>
+<h3 align="center">A passionate frontend developer from Missouri, US. I am currently a student at TripleTen.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revellebrent&label=Profile%20views&color=0e75b6&style=flat" alt="revellebrent" /> </p>
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **revellebrent@icloud.com**
 
 - ⚡ Fun fact **My passions are coding and soccer.**
+- 👨🏻‍💻 My skills include **HTML/CSS, Git, Github, VSCode, Figma and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
