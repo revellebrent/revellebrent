@@ -1,31 +1,50 @@
-<h1 align="center">Hi 👋, I'm Brent Revelle</h1>
-<h3 align="center">A passionate frontend developer from Missouri, US. I am currently a student at TripleTen.</h3>
+# Hi 👋, I'm Brent Revelle
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revellebrent&label=Profile%20views&color=0e75b6&style=flat" alt="revellebrent" /> </p>
+🎯 A passionate full-stack web developer from Missouri, US  
+🎓 Currently studying backend development at TripleTen  
+🧠 Always learning — recently mastered JavaScript & React, now diving into Node.js and MongoDB  
+⚽ Fun fact: I’m equally passionate about coding and soccer!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revellebrent" alt="revellebrent" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/brent_revelle" target="blank"><img src="https://img.shields.io/twitter/follow/brent_revelle?logo=twitter&style=for-the-badge" alt="brent_revelle" /></a> </p>
+### 💼 All of my projects are available at:
+🔗 [GitHub Portfolio](https://github.com/revellebrent)
 
-- 🌱 I’m currently learning **JavaScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/revellebrent](https://github.com/revellebrent)
+### 📫 How to reach me
+📧 revellebrent@icloud.com  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brent-revelle-9549b535a/)
 
-- 📫 How to reach me **revellebrent@icloud.com**
+---
 
-- ⚡ Fun fact **My passions are coding and soccer.**
-- 👨🏻‍💻 My skills include **HTML/CSS, Git, Github, VSCode, Figma and JavaScript**
+### 🛠️ Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brent_revelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brent_revelle" height="30" width="40" /></a>
-<a href="https://instagram.com/brevelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brevelle" height="30" width="40" /></a>
-<a href="https://discord.gg/revrev8180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="revrev8180" height="30" width="40" /></a>
-</p>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revellebrent&show_icons=true&locale=en" alt="revellebrent" /></p>
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+---
 
+### 🌱 Currently Learning
+
+- 🔧 Backend development with Node.js and Express  
+- 🧩 Database design and management with MongoDB  
+- 🛡️ Building secure RESTful APIs
+
+---
+
+Thanks for stopping by! 😊
