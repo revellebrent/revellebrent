@@ -17,7 +17,9 @@ Explore my featured projects and repositories:
 
 ### 📫 How to Reach Me
 📧 [revellebrent@icloud.com](mailto:revellebrent@icloud.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/brent-revelle-9549b535a/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/brent-revelle-9549b535a/)   
+📸 [**Spots**](https://revellebrent.github.io/se_project_spots/) — A React photo-sharing app where users can add, like, and manage image cards.  
+✅ [**To-Do App**](https://revellebrent.github.io/se_project_todo-app/) — Simple and clean task manager built with React and local storage.
 
 ---
 
