@@ -12,14 +12,15 @@ Explore my featured projects and repositories:
 🔗 [GitHub Portfolio](https://github.com/revellebrent?tab=repositories)  
 🌐 [Live Project: Tournament Manager](https://revellebrent.github.io/tournament-manager/)  
 🧥 [WTWR App (What To Wear?)](https://github.com/revellebrent/se_project_react)
+📸 [**Spots**](https://revellebrent.github.io/se_project_spots/) — A React photo-sharing app where users can add, like, and manage image cards.  
+✅ [**To-Do App**](https://revellebrent.github.io/se_project_todo-app/) — Simple and clean task manager built with React and local storage.
+
 
 ---
 
 ### 📫 How to Reach Me
 📧 [revellebrent@icloud.com](mailto:revellebrent@icloud.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/brent-revelle-9549b535a/)   
-📸 [**Spots**](https://revellebrent.github.io/se_project_spots/) — A React photo-sharing app where users can add, like, and manage image cards.  
-✅ [**To-Do App**](https://revellebrent.github.io/se_project_todo-app/) — Simple and clean task manager built with React and local storage.
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/brent-revelle-9549b535a/) 
 
 ---
 
