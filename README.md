@@ -1,149 +1,101 @@
-# 👋 Hi, I'm Brent Revelle
+# Brent Revelle
 
-🚀 Full-Stack Software Engineer | Founder of BeaconConnect LLC
+**Full-Stack Software Engineer | Founder & Product Engineer at SeenIQ LLC**
 
-I build modern web and mobile applications with a focus on scalable architecture, clean user experiences, and solving real-world problems through technology.
+I build full-stack web and mobile products from idea to production, with a focus on clean user experiences, maintainable architecture, secure APIs, and solving real-world problems through software.
 
-Currently, I'm building **SeenIQ**, an athlete exposure and recruiting platform designed to help athletes gain visibility, showcase their achievements, and connect with opportunities at the next level.
+I'm currently building **SeenIQ**, a multi-sport athlete exposure and recruiting platform designed to help athletes showcase their work, improve visibility, and connect with coaches, recruiters, trainers, and opportunities.
 
-⚽ Passionate about both software development and soccer.
-
----
-
-## 🚀 Current Project
-
-### SeenIQ
-
-**Be Seen. Get Recruited.**
-
-SeenIQ is an athlete exposure and recruiting platform focused on helping athletes create professional profiles, showcase highlights, and connect with coaches, recruiters, trainers, and opportunities.
-
-#### Tech Stack
-
-* Next.js
-* TypeScript
-* React
-* Node.js
-* Hono
-* PostgreSQL
-* Prisma
-* Neon
-* JWT Authentication
-* Expo / React Native
-
-🌐 Website: https://seeniqapp.com
+[SeenIQ](https://seeniqapp.com) · [LinkedIn](https://www.linkedin.com/in/brent-revelle-9549b535a/) · [GitHub](https://github.com/revellebrent)
 
 ---
 
-## 💼 Featured Projects
+## Current Focus: SeenIQ
 
-### SeenIQ
+### SeenIQ — Be Seen. Get Recruited.
 
-Athlete exposure and recruiting platform currently in active development.
+**Founder & Full-Stack Engineer**
+
+I'm leading development across the web application, API, database, and mobile experience for SeenIQ.
+
+**Core technologies:**
+
+- Next.js, React, TypeScript
+- Node.js and Hono
+- PostgreSQL, Prisma, Neon
+- REST APIs, JWT authentication, role-based access control
+- React Native and Expo
+- Vercel, GitHub, Postman
+
+**Product areas include:** athlete profiles, recruiting discovery, training-provider workflows, authentication and permissions, mobile experiences, and scalable product architecture.
+
+**Website:** https://seeniqapp.com
+
+---
+
+## Selected Work
+
+### SEMO Swarm
+
+A modern soccer club platform built with **Next.js, TypeScript, Supabase, React, and Tailwind CSS**, including public club pages and authenticated/internal functionality.
+
+**Repository:** https://github.com/revellebrent/semo-swarm-site
 
 ### Tournament Manager
 
-Tournament management platform designed for event directors, coaches, athletes, and parents.
+A youth sports tournament management prototype built with **React and Vite**. Includes role-based dashboards for directors, coaches, parents, and spectators; scheduling and standings logic; public tournament views; accessibility support; and weather/alert integrations.
 
-🔗 Live Demo:
-https://revellebrent.github.io/tournament-manager/
+**Repository:** https://github.com/revellebrent/tournament-manager
 
-### WTWR (What To Wear?)
+### WTWR — What To Wear?
 
-Full-stack web application featuring authentication, user profiles, item management, and protected routes.
+A full-stack web application featuring authentication, protected routes, user profiles, and item management.
 
-🔗 Repository:
-https://github.com/revellebrent/se_project_react
+**Repository:** https://github.com/revellebrent/se_project_react
 
 ### Spots
 
-React-based photo-sharing platform allowing users to create, manage, and interact with image content.
+A React-based photo-sharing application where users can create, manage, and interact with image content.
 
-🔗 Live Demo:
-https://revellebrent.github.io/se_project_spots/
-
----
-
-## 🛠 Technical Skills
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Vite
-
-### Backend
-
-* Node.js
-* Express.js
-* Hono
-* PostgreSQL
-* MongoDB
-* Prisma
-* Mongoose
-
-### Authentication & APIs
-
-* JWT Authentication
-* REST APIs
-* Role-Based Access Control
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Neon
-* Vercel
-* Figma
+**Repository:** https://github.com/revellebrent/se_project_spots
 
 ---
 
-## 🌱 Current Focus
+## Technical Stack
 
-* Building SeenIQ
-* Mobile development with React Native & Expo
-* SaaS architecture and product development
-* Authentication and security
-* Scalable API design
-* Startup growth and product strategy
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite
 
----
+**Backend & APIs**  
+Node.js · Hono · Express.js · REST APIs · JWT Authentication · Role-Based Access Control
 
-## 🏢 About BeaconConnect LLC
+**Data**  
+PostgreSQL · Prisma · Neon · MongoDB · Mongoose · Supabase
 
-BeaconConnect LLC is the company behind SeenIQ and future software products focused on creating meaningful connections and opportunities through technology.
+**Mobile**  
+React Native · Expo
 
-Current flagship product:
-
-* SeenIQ
-
-Future initiatives:
-
-* BeaconConnect (mental health and recovery platform)
+**Tools & Platforms**  
+Git · GitHub · VS Code · Postman · Vercel · Figma · ESLint · Prettier
 
 ---
 
-## 📫 Connect With Me
+## What I'm Working On
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/brent-revelle-9549b535a/
-
-🔗 GitHub:
-https://github.com/revellebrent
-
-📍 Missouri, USA
+- Building and growing SeenIQ across web and mobile
+- Full-stack and product engineering
+- SaaS architecture and scalable API design
+- Authentication, permissions, and application security
+- React Native and Expo mobile development
+- Turning product ideas into usable, production-focused software
 
 ---
 
-### Thanks for stopping by!
+## Connect
 
-I'm always interested in connecting with developers, founders, athletes, coaches, and anyone building something meaningful.
+**LinkedIn:** https://www.linkedin.com/in/brent-revelle-9549b535a/  
+**SeenIQ:** https://seeniqapp.com  
+**GitHub:** https://github.com/revellebrent  
+**Location:** Missouri, USA
 
-🚀 Building the future, one project at a time.
-
+I'm interested in connecting with software engineers, product builders, founders, and teams working on meaningful products.
