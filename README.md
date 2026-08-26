@@ -6,7 +6,7 @@ I build full-stack web and mobile products from idea to production, with a focus
 
 I'm currently building **SeenIQ**, a multi-sport athlete exposure and recruiting platform designed to help athletes showcase their work, improve visibility, and connect with coaches, recruiters, trainers, and opportunities.
 
-[SeenIQ](https://seeniqapp.com) · [LinkedIn](https://www.linkedin.com/in/brent-revelle-9549b535a/) · [GitHub](https://github.com/revellebrent)
+[SeenIQ](https://seeniqapp.com) · [BeaconConnect](https://beaconconnect.net) · [LinkedIn](https://www.linkedin.com/in/brent-revelle-9549b535a/) · [GitHub](https://github.com/revellebrent)
 
 ---
 
@@ -34,6 +34,12 @@ I'm leading development across the web application, API, database, and mobile ex
 ---
 
 ## Selected Work
+
+### BeaconConnect
+
+A full-stack mental health and recovery platform built around connection, community, and access to supportive resources. The production source repository is private, while the live product remains publicly accessible.
+
+**Live Site:** https://beaconconnect.net
 
 ### SEMO Swarm
 
@@ -95,6 +101,7 @@ Git · GitHub · VS Code · Postman · Vercel · Figma · ESLint · Prettier
 
 **LinkedIn:** https://www.linkedin.com/in/brent-revelle-9549b535a/  
 **SeenIQ:** https://seeniqapp.com  
+**BeaconConnect:** https://beaconconnect.net  
 **GitHub:** https://github.com/revellebrent  
 **Location:** Missouri, USA
 
